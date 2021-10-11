@@ -2,6 +2,11 @@
  
 ![Credit Risk](Images/credit-risk.jpg)
 
+---
+## Solution:
+
+The solutions to the challenge below can be found in the <a href="https://github.com/eriklarson33/HW_11-Risky_Business/blob/master/Starter_Code/credit_risk_resampling.ipynb">Resampling notebook</a> and <a href="https://github.com/eriklarson33/HW_11-Risky_Business/blob/master/Starter_Code/credit_risk_ensemble.ipynb">Ensemble Learning notebook</a>.
+
 ## Background
 
 Mortgages, student and auto loans, and debt consolidation are just a few examples of credit and loans that people seek online. Peer-to-peer lending services such as Loans Canada and Mogo let investors loan people money without using a bank. However, because investors always want to mitigate risk, a client has asked that you help them predict credit risk with machine learning techniques.
